@@ -2,7 +2,7 @@
 
 4MB PAL RAM SIMMs, for the Macintosh II and IIx
 
-While the Macintosh II and IIx were designed with sufficient address lines to handle up to 128MB of RAM in two banks of 4 SIMMs (giving a total of 8 slots), standards for DRAM chip design changed between the design of these computers and the release of the first 4MB DIMMs causing issues. Additionally, both the Mac II and IIx have a number of other RAM oddities.
+While the Macintosh II and IIx were designed with sufficient address lines to handle up to 128MB of RAM in two banks of 4 SIMMs (giving a total of 8 slots), standards for DRAM chip design changed between the design of these computers and the release of the first 4MB SIMMs causing issues. Additionally, both the Mac II and IIx have a number of other RAM oddities.
 
 Both require either a replacement 32bit Clean ROM, or the "MODE32" extension to address more than  8MB of RAM. Additionally, the II also needs a PMMU to be able to address more than 8MB of memory. If using the original Mac II ROM and the MODE32 software, the II is then to 68MB of RAM (1MB SIMMs in Bank A and 16MB in Bank B) due to additional issues with the ROM. The Mac II can address the full 128MB of RAM if ROMs from a Mac IIx are swapped in.
 
